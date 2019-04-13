@@ -1,13 +1,13 @@
 body{
 	
-	margin: 0px;
+	margin: 3px;
   background-image: url('../img/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
  
  }
 .bg-light_redi{
-	background-color:#e0e0e0;
+	background-color:#bdbdbd6b;
 }
 #menu_background{
   background-color: #bfbfbf;
